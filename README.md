@@ -36,7 +36,7 @@ The STM32 communicates with the HC-05 through the UART peripheral. Data received
 
 Add the circuit diagram here.
 
-![STM32 UART Bluetooth Circuit Diagram](circuit-diagram.png)
+<img width="1067" height="890" alt="image" src="https://github.com/user-attachments/assets/4a6c8a84-5ed6-42ea-942f-69690049da6d" />
 
 ---
 
@@ -52,9 +52,7 @@ Add the circuit diagram here.
 > TX and RX are cross-connected: HC-05 TX → STM32 RX and HC-05 RX → STM32 TX.
 
 ---
-##  Circuit Diagram 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a9b3fa47-de65-42b5-be04-e3a465f33e2d" />
----
+
 ## 🔄 Working Principle
 
 ```text
